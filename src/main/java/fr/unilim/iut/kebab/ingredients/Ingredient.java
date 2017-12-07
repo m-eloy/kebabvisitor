@@ -27,5 +27,5 @@ public abstract class Ingredient implements Kebab {
 	public boolean isPescetarien() {
 		return kebab.isPescetarien();
 	}
-
+	
 }
