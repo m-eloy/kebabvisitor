@@ -10,11 +10,6 @@ public class Boeuf extends Ingredient {
 	}
 
 	@Override
-	public boolean isVegetarien() {
-		return false;
-	}
-
-	@Override
 	public boolean isPescetarien() {
 		return false;
 	}
