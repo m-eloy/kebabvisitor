@@ -1,3 +1,4 @@
+package fr.unilim.iut.kebab.visitor;
 import fr.unilim.iut.kebab.Assiette;
 import fr.unilim.iut.kebab.ingredients.*;
 
